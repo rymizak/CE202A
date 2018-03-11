@@ -1,0 +1,3 @@
+Timestamp,instructions,cpu-cycles,branch-misses,L1-dcache-load-misses,l2_rqsts.miss,LLC-load-misses
+     0.008172823,30857802,26740889,265618,286599,405577,7733
+     0.008404263,906418,746744,2075,14464,13162,2620
